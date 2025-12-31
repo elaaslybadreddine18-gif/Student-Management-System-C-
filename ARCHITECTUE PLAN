@@ -16,7 +16,8 @@
           v
 +-------------------+
 |  Student Class   |
-| name, grade      |
+| name,module name,
+  td,tp,final ,grade|
 +-------------------+
           |
           v
